@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AlkeWallet_Design</string>
+    <string name="logo">logo</string>
+    <string name="alkewallet">AlkeWallet</string>
+    <string name="el_lugar_m_s_seguro_para_tu_dinero">El lugar más seguro para tu dinero</string>
+    <string name="loguea_y_empeza_a">Loguea y empeza a</string>
+    <string name="transferir">transferir!</string>
+    <string name="ingresar_tu_email">Ingresar tu email</string>
+    <string name="email">Email</string>
+    <string name="ingresa_tu_contrase_a">Ingresa tu contraseña?</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="ingresar_tu_contrase_a">Ingresar tu contraseña?</string>
+    <string name="olvidaste_tu_contrase_a">Olvidaste tu contraseña?</string>
+    <string name="ingress">Ingresa tu contraseña?</string>
+    <string name="login">Login</string>
+    <string name="crear_cuenta_nueva">Crear cuenta nueva</string>
+    <string name="crear_una_nueva_cuenta">Crear una nueva cuenta</string>
+    <string name="nombre">Nombre</string>
+    <string name="ingresar_nombre">Ingresar nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="apellido1">Ingresar apellido</string>
+    <string name="ingresar_email">Ingresar Email</string>
+    <string name="contraseña_nueva">Ingresar Contraseña</string>
+    <string name="reingresar_contrase_a">Reingresar contraseña</string>
+    <string name="empezar_a_transferir">empezar a transferir</string>
+    <string name="registrarse_y">Registrarse y</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+    <string name="ya_tienes_una_cuenta">Ya tienes una cuenta??</string>
+    <string name="inicio">Inicio</string>
+    <string name="hola_amanda">Hola, Amanda!</string>
+    <string name="balance_total">Balance Total</string>
+    <string name="_124_57">$124.57</string>
+</resources>
